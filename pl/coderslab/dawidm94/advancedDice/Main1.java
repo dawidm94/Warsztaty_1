@@ -53,7 +53,7 @@ public class Main1 {
 					System.out.println("Wylosowana liczba to: " + dice);
 				}
 			} else {
-				System.out.println("Wprowadzono nieprawidłowo kostkę. Wprowadź ponownie.");
+				System.out.println("Nieprawidłowa kostka. Wprowadź ponownie.");
 			}
 
 		
